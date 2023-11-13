@@ -1,0 +1,19 @@
+h1 {
+    color:rgb(8, 8, 8)
+}
+
+h3 {
+    color: rgb(8, 0, 0);
+}
+
+a {
+    color:brown
+    
+}
+
+* {
+    background-color:rgb(186, 219, 235);
+}
+li[value]{
+    color: blue;
+}

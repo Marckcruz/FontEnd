@@ -1,0 +1,35 @@
+h1{
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Arial;
+}
+h3 {
+    font-weight: normal;
+    font-size: 10px;
+    
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+#amarelo{
+    color:gold
+}
+
+#vermelho{
+    color:rgb(238, 12, 12)
+}
+
+#azul{
+    color:rgb(12, 136, 238)
+}
+
+#marron{
+    color:rgba(221, 183, 138, 0.493)
+}
+
+#violeta {
+    color:blueviolet
+}
